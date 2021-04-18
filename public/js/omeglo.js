@@ -1,7 +1,7 @@
 'use strict';
 
 var URLConnection = "localhost:8080";
-var URLProtocol = "http://";
+var URLProtocol = "https://";
 
 var socketNUsers = null;
 var socketControl = null;
